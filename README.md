@@ -1,5 +1,5 @@
 # Cypress Test Suite
-This repository contains a test suite built with Cypress for testing [insert application name here]. This README will guide you through how to set up the project and run the tests.
+This repository contains a test suite built with Cypress for testing ToolsQA Demi Site. This README will guide you through how to set up the project and run the tests.
 
 # Prerequisites
 Before running the tests, you must have the following installed on your machine:
